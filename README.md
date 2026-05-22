@@ -6,15 +6,15 @@
 
 This dashboard focused on analyzing the performance of a multi-channel digital marketing campaign across five platforms:
 
-	i. Google Ads
+i. Google Ads
 
-	ii.	Facebook
+ii. Facebook
 
-	iii. Instagram
+iii. Instagram
 
-	iv. Twitter
+iv. Twitter
 
-	v. Email
+v. Email
 
 The objective was to evaluate campaign effectiveness by making use of  core digital marketing KPIs including traffic generation, engagement, conversion performance, and return on investment.
 
@@ -56,15 +56,16 @@ ii. Platform Performance Analysis
 
 a. Total Impressions by Platform
 
-	• Google Ads: ~5.3M
+	
+- Google Ads: ~5.3M
 
-	•	Facebook: ~5.2M
+-	Facebook: ~5.2M
 
-	•	Instagram: ~5.0M
+-	Instagram: ~5.0M
 
-	•	Email: ~4.8M
+-	Email: ~4.8M
 
-	•	Twitter: ~4.8M
+-	Twitter: ~4.8M
 
 The Insight:
 
