@@ -21,6 +21,7 @@ The objective was to evaluate campaign effectiveness by making use of  core digi
 
 # Tool Used: 
 a. Power BI
+
 b. Excel
 
 
@@ -55,7 +56,6 @@ This is a majorly known for  strength.  For every $1 spent, the campaign generat
 ii. Platform Performance Analysis
 
 a. Total Impressions by Platform
-
 	
 - Google Ads: ~5.3M
 
